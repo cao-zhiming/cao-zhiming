@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <strong><a href="https://caozhiming.tk">网站</a></strong> |
+  <strong><a href="https://blog.caozm.tk">网站</a></strong> |
   <strong><a href="https://blog.csdn.net/weixin_46898465">CSDN</a></strong> |
   <strong><a href="https://blog.caozhiming.tk/about/">关于我</a></strong>  
 </p>

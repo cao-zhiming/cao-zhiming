@@ -1,9 +1,9 @@
 <h1 align="center">你好，我叫<a href="https://blog.caozm.tk/">曹智铭</a>！</h1>
-<h2 align="center">长期潜伏于caozm.tk的碳基生物。</h2>
+<h2 align="center">长期潜伏于czhiming.cn的碳基生物。</h2>
 
 
 <p align="center">
-  <strong><a href="https://blog.caozm.tk">网站</a></strong> |
+  <strong><a href="https://czhiming.cn">网站</a></strong> |
   <strong><a href="https://blog.csdn.net/weixin_46898465">CSDN</a></strong> |
   <strong><a href="https://blog.caozm.tk/about/">关于我</a></strong>  
 </p>

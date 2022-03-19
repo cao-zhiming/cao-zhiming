@@ -1,4 +1,4 @@
-<h1 align="center">你好，我叫<a href="https://blog.caozm.tk/">曹智铭</a>！</h1>
+<h1 align="center">你好，我叫<a href="https://czhiming.cn/">曹智铭</a>！</h1>
 <h2 align="center">长期潜伏于czhiming.cn的碳基生物。</h2>
 
 

@@ -5,7 +5,7 @@
 <p align="center">
   <strong><a href="https://czhiming.cn">网站</a></strong> |
   <strong><a href="https://blog.csdn.net/weixin_46898465">CSDN</a></strong> |
-  <strong><a href="https://blog.caozm.tk/about/">关于我</a></strong>  
+  <strong><a href="https://czhiming.cn/a-letter-for-you.html">关于我</a></strong>  
 </p>
 <a href="https://czhiming.cn"><p align="center">访问用户<br> <img src="https://profile-counter.glitch.me/xiaocao162020/count.svg" /></a>
 

@@ -1,13 +1,12 @@
-<h1 align="center">你好，我叫<a href="https://czhiming.cn/">曹智铭</a>！</h1>
-<h2 align="center">长期潜伏于czhiming.cn的碳基生物。</h2>
+<h1 align="center">你好，我叫<a href="https://czming.top/">曹智铭</a>！</h1>
+
 
 
 <p align="center">
-  <strong><a href="https://czhiming.cn">网站</a></strong> |
-  <strong><a href="https://blog.csdn.net/weixin_46898465">CSDN</a></strong> |
-  <strong><a href="https://czhiming.cn/a-letter-for-you">关于我</a></strong>  
+  <strong><a href="https://czming.top">网站</a></strong> |
+  <strong><a href="https://blog.csdn.net/weixin_46898465">CSDN</a></strong> 
 </p>
-<a href="https://czhiming.cn"><p align="center">访问用户<br> <img src="https://profile-counter.glitch.me/xiaocao162020/count.svg" /></a>
+<a href="https://czming.top"><p align="center">访问用户<br> <img src="https://profile-counter.glitch.me/xiaocao162020/count.svg" /></a>
 
 
 ## 统计
